@@ -40,7 +40,7 @@ Optionally, you may “close” atx-style headers. This is purely cosmetic — y
 
 ---
 
-Here's a quiz about markdown titles.
+Voici un quiz sur les titres markdown
 
 Select the valid headers:
 - [x] `# hello`
