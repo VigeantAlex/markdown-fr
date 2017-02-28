@@ -42,7 +42,7 @@ Optionally, you may “close” atx-style headers. This is purely cosmetic — y
 
 Voici un quiz sur les titres markdown
 
-Select the valid headers:
+Selectionne l'entête valide :
 - [x] `# hello`
 - [ ] `#hello`
 
